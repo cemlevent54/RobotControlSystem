@@ -1,18 +1,4 @@
 ﻿  Encryption.cpp
-  IRSensor.cpp
-  LidarSensor.cpp
-  MAP.cpp
-  OOP_Robotic_Project.cpp
-  Point.cpp
-  Pose.cpp
-  Record.cpp
-  RobotControler.cpp
-  RobotOperator.cpp
-  SafeNavigation.cpp
-  TestPose.cpp
-  TestRobotControler.cpp
-  Generating Code...
-  LINK : C:\Users\Cem Levent\Desktop\OOP_Grup3_Project\RobotControlSystem\OOP_Robotic_Project\x64\Debug\OOP_Robotic_Project.exe not found or not built by the last incremental link; performing full link
-FestoRobotAPILib.lib(FestoRobotAPI.obj) : warning LNK4099: PDB '' was not found with 'FestoRobotAPILib.lib(FestoRobotAPI.obj)' or at ''; linking object as if no debug info
-FestoRobotAPILib.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'FestoRobotAPILib.lib(pch.obj)' or at ''; linking object as if no debug info
-  OOP_Robotic_Project.vcxproj -> C:\Users\Cem Levent\Desktop\OOP_Grup3_Project\RobotControlSystem\OOP_Robotic_Project\x64\Debug\OOP_Robotic_Project.exe
+FestoRobotAPILib.lib(FestoRobotAPI.obj) : warning LNK4099: PDB '', 'FestoRobotAPILib.lib(FestoRobotAPI.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+FestoRobotAPILib.lib(pch.obj) : warning LNK4099: PDB '', 'FestoRobotAPILib.lib(pch.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+  OOP_Robotic_Project.vcxproj -> C:\Users\Yakub\Desktop\Yeni klasör (3)\RobotControlSystem\OOP_Robotic_Project\x64\Debug\OOP_Robotic_Project.exe

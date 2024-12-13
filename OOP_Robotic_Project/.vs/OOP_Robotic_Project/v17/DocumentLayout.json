@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cem Levent\\Desktop\\OOP_Grup3_Project\\RobotControlSystem\\OOP_Robotic_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Cem Levent\\Desktop\\OOP_Grup3_Project\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\OOP_Robotic_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\TestRobotControler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\TestRobotControler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\OOP_Robotic_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\OOP_Robotic_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\TestRobotControler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\TestRobotControler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotControler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\RobotControler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Encryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\Encryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\RobotOperator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotOperator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C73DF5-D0DB-43BD-A4DA-317FC389C374}|OOP_Robotic_Project\\OOP_Robotic_Project.vcxproj|solutionrelative:OOP_Robotic_Project\\RobotOperator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestRobotControler.cpp",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\TestRobotControler.cpp",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\TestRobotControler.cpp",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\TestRobotControler.cpp",
+              "RelativeToolTip": "OOP_Robotic_Project\\TestRobotControler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T09:27:56.737Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestRobotControler.h",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\TestRobotControler.h",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\TestRobotControler.h",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\TestRobotControler.h",
+              "RelativeToolTip": "OOP_Robotic_Project\\TestRobotControler.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T09:27:10.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RobotControler.h",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotControler.h",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\RobotControler.h",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotControler.h",
+              "RelativeToolTip": "OOP_Robotic_Project\\RobotControler.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T09:26:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Point.cpp",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\Point.cpp",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Point.cpp",
+              "RelativeToolTip": "OOP_Robotic_Project\\Point.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T11:46:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Encryption.h",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Encryption.h",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\Encryption.h",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Encryption.h",
+              "RelativeToolTip": "OOP_Robotic_Project\\Encryption.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T11:45:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RobotOperator.h",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotOperator.h",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\RobotOperator.h",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotOperator.h",
+              "RelativeToolTip": "OOP_Robotic_Project\\RobotOperator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T11:45:15.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OOP_Robotic_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
+              "RelativeToolTip": "OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T08:58:13.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OOP_Robotic_Project.cpp",
-              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\OOP_Grup3_Project\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
-              "RelativeDocumentMoniker": "OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
-              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\OOP_Grup3_Project\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
-              "RelativeToolTip": "OOP_Robotic_Project\\OOP_Robotic_Project.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-10T08:58:13.297Z",
+              "Title": "Point.h",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Point.h",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\Point.h",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Point.h",
+              "RelativeToolTip": "OOP_Robotic_Project\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T11:44:36.157Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Encryption.cpp",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Encryption.cpp",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\Encryption.cpp",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\Encryption.cpp",
+              "RelativeToolTip": "OOP_Robotic_Project\\Encryption.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T11:45:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RobotOperator.cpp",
+              "DocumentMoniker": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotOperator.cpp",
+              "RelativeDocumentMoniker": "OOP_Robotic_Project\\RobotOperator.cpp",
+              "ToolTip": "C:\\Users\\Yakub\\Desktop\\Yeni klas\u00F6r (3)\\RobotControlSystem\\OOP_Robotic_Project\\OOP_Robotic_Project\\RobotOperator.cpp",
+              "RelativeToolTip": "OOP_Robotic_Project\\RobotOperator.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T11:46:02.809Z"
             }
           ]
         }
